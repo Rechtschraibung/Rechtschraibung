@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Rechtschraibung
-- 🌱 I’m currently learning ... java
-- 💞️ I’m looking to collaborate on ... nothing
+- 🌱 I’m currently learning ... Java, C, C++
 
 <!---
 Rechtschraibung/Rechtschraibung is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
